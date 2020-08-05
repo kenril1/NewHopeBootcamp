@@ -29,31 +29,51 @@ body {
 h1 {
 
     /* Set the font size to 30 pixels */
+<<<<<<< HEAD
      font-size: 30px;
+=======
+    font-size: 30px;
+
+
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 }
 
 h2 {
     /* Set the font size to 25 pixels */
+<<<<<<< HEAD
 font-size: 30px;
+=======
+    font-size: 25px;
+
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 }
 
 h3 {
     /* Set the font size to 20 pixels */
+<<<<<<< HEAD
 font-size: 20px;
+=======
+    font-size: 20px;
+
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 }
 
 p {
     /* Set the font size to 18 pixels */
+    font-size: 18px;
 
 }
 
 .caption-name {
     /* set font size to 15 pixels and make text bold */
+    font-size: 15px;
+    font-weight: bold;
 
 }
 
 .caption-title {
     /* set font size to 13 pixels */
+    font-size: 13px;
 
 }
 
@@ -65,9 +85,9 @@ img {
     padding: 0px;
 }
 
-/* .container {
+.container {
     display: inline-block;
-} */
+}
 
 nav {
     position: fixed;
@@ -75,9 +95,13 @@ nav {
     left: 0;
     width: 100%;
     padding: .75rem;
-    background-color: #bb97eb;
+    background-color: #a1eb97;
     z-index: 1000000000;
+<<<<<<< HEAD
 }
+=======
+} 
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 
 nav li {
     display: inline;
